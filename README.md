@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @GrdLdwg
+- 🌱 I’m currently learning ... 
+- 💞️ I want to use github with terraform and azure...
+- 📫 How to reach me ...
+
+<!---
+GrdLdwg/GrdLdwg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
